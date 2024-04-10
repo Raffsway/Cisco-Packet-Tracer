@@ -6,43 +6,35 @@ Cada Switch representa um departamento.
 - Departamento: A
 - Departamento: B
 - Departamento: C
-## Roteadores: 3
-Cada roteador representa uma localização geografica distinta.
-- Roteador - A
-- Roteador - B
-- Roteador - C
-## Endereçamento
-Os enderementos foram divididos da seguinte forma: Para "Departamento" e "Roteador"
-
 ### Departamento: A		   
 	- Int: 192.168.100.0 até 192.168.100.7           
 	- Rede: 192.168.100.0
 	- Broadcast: 192.168.100.7
 	- Hosts: 6
-    
 ### Departamento: B
 	- Int: 192.168.100.8 até 192.168.100.15
 	- Rede: 192.168.100.8
 	- Broadcast: 192.168.100.15
 	- Hosts: 6
-    
 ### Departameto: C
 	- Int: 192.168.100.16 até 192.168.100.23
 	- Rede: 192.168.100.16
 	- Broadcast: 192.168.100.23
 	- Hosts: 6
-
+## Roteadores: 3
+Cada roteador representa uma localização geografica distinta.
+- Roteador - A
+- Roteador - B
+- Roteador - C
 ### Roteador: A
 	- Int: 200.168.100.0 até 200.168.100.3
 	- Rede: 200.168.100.0
 	- Broadcast: 200.168.100.3
 	- Hosts: 2
-    
 ### Roteador: B
 	- Int: 200.168.100.0 até 200.168.100.3
 	- Rede: 200.168.100.0
 	- Broadcast: 200.168.100.3
 	- Hosts: 2
-
 ### Roteador: C
 
