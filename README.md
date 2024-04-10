@@ -1,6 +1,6 @@
 # Static Route: Packet Tracer
 I designed this hypothetical network for study purposes. Using static routing and subnetting concepts, I aimed to create a laboratory with the following scenario: building an infrastructure in a network where the goal was to connect departments to distinct subnets. This idea arose with the purpose of promoting security and reducing the number of available hosts to enhance IP management quality. Consequently, only a set amount of hosts can be contained within the subnet, as we will see later.
-![Static Router and Sub-nets](https://github.com/Raffsway/Packet-Tracer-RIP/assets/145021073/3e98d0fe-92fe-452e-b98a-b58b77303a6a)
+![Static Router and Sub-nets](https://github.com/Raffsway/Packet-Tracer-RIP/assets/145021073/b7c72609-e112-4d19-be20-1e7e641fcd5b)
 ## Departments: 3
 Each switch represents a department.
 - Department: A
