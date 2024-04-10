@@ -1,5 +1,6 @@
 # Static Route: Packet Tracer
 I designed this hypothetical network for study purposes. Using static routing and subnetting concepts, I aimed to create a laboratory with the following scenario: building an infrastructure in a network where the goal was to connect departments to distinct subnets. This idea arose with the purpose of promoting security and reducing the number of available hosts to enhance IP management quality. Consequently, only a set amount of hosts can be contained within the subnet, as we will see later.
+# Config
 ## Departments: 3
 Each switch represents a department.
 - Department: A
@@ -25,19 +26,18 @@ Each router represents a distinct geographical location.
 - Router - A
 - Router - B
 - Router - C
-## Static Router
-### Router: A 
-- Porta GigabiteEthernet 0/0
+## Static Router A
+### Router: A and B
     - Gap: 200.168.100.0 - 200.168.100.3
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
     - Hosts: 2
-### Router: B
+### Router: A and C
     - Gap: 200.168.100.8 - 200.168.100.15
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
     - Hosts: 2
-### Router: C
+## Static Router B
     - Gap: 200.168.100.4 - 200.168.100.5
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
