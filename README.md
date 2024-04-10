@@ -56,6 +56,9 @@ Each router represents a distinct geographical location.
     Gateway Route C: 200.168.100.9/30 | Port: GigabitEthernet 0/0
     Hosts: 2
 
+# Ping
+
+
     
 
     
