@@ -1,5 +1,4 @@
-# Static Route: Packet Tracer
-Aqui abordarei projetos sobre: 
+# Cisco Packe Tracer
 
 - Static Route
 - BGP
