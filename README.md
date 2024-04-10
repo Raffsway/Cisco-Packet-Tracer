@@ -37,7 +37,7 @@ Cada roteador representa uma localização geografica distinta.
 	- Broadcast: 200.168.100.3
 	- Hosts: 2
 ### Roteador: C
-       - Int: 200.168.100.0 até 200.168.100.3
-       - Rede: 200.168.100.0
-       - Broadcast: 200.168.100.3
-       - Hosts: 2
+     - Int: 200.168.100.0 até 200.168.100.3
+     - Rede: 200.168.100.0
+     - Broadcast: 200.168.100.3
+     - Hosts: 2
