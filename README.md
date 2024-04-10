@@ -57,6 +57,7 @@ Each router represents a distinct geographical location.
     Hosts: 2
 
 # Ping
+![Ping](https://github.com/Raffsway/Packet-Tracer-RIP/assets/145021073/933ef16d-b3cd-454e-a57f-67d951ea6af4)
 
 
     
