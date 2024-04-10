@@ -1,11 +1,11 @@
 # Cisco Packet Tracer
-## Protoclos de Roteamento
+## Routing Protocols
 - Static Route
 - BGP
 - OSPF
 - RIP
-## Serviços de Rede
+## Network Services
 - SUBNETS
 - VPN
 - DHCP
-- FIREWAL
+- FIREWALL
