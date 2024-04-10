@@ -57,7 +57,7 @@ Each router represents a distinct geographical location.
     Hosts: 2
 
 # Ping
-![Ping](https://github.com/Raffsway/Packet-Tracer-RIP/assets/145021073/954f42a8-de3f-4bd5-be73-7879e1df1ae6)
+![Ping](https://github.com/Raffsway/Packet-Tracer-RIP/assets/145021073/780cf92f-6e5c-49df-9e02-6da55d8cb2f0)
 As can be observed, network connectivity works perfectly. However, to test the effectiveness of the project idea in Department C, I decided to place a PC outside the subnet address range and tested connectivity. The result was "Destination host unreachable," as the address 192.168.100.25 is outside the subnet of Department C, as mentioned earlier.
 
     
