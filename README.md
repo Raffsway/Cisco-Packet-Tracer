@@ -6,17 +6,17 @@ Each switch represents a department.
 - Department: B
 - Department: C
 ### Department: A		   
-     - Gap: 192.168.100.0 até 192.168.100.7           
+     - Gap: 192.168.100.0 - 192.168.100.7           
      - Network: 192.168.100.0
      - Broadcast: 192.168.100.7
      - Hosts: 6
 ### Department: B
-     - Gap: 192.168.100.8 até 192.168.100.15
+     - Gap: 192.168.100.8 - 192.168.100.15
      - Rede: 192.168.100.8
      - Broadcast: 192.168.100.15
      - Hosts: 6
 ### Department: C
-     - Gap: 192.168.100.16 até 192.168.100.23
+     - Gap: 192.168.100.16 - 192.168.100.23
      - Rede: 192.168.100.16
      - Broadcast: 192.168.100.23
      - Hosts: 6
@@ -25,18 +25,19 @@ Each router represents a distinct geographical location.
 - Router - A
 - Router - B
 - Router - C
+## Static Router
 ### Router: A
-    - Gap: 200.168.100.0 até 200.168.100.3
+    - Gap: 200.168.100.0 - 200.168.100.3
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
     - Hosts: 2
 ### Router: B
-    - Gap: 200.168.100.0 até 200.168.100.3
+    - Gap: 200.168.100.8 - 200.168.100.15
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
     - Hosts: 2
 ### Router: C
-    - Gap: 200.168.100.0 até 200.168.100.3
+    - Gap: 200.168.100.4 - 200.168.100.5
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
     - Hosts: 2
