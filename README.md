@@ -26,7 +26,8 @@ Each router represents a distinct geographical location.
 - Router - B
 - Router - C
 ## Static Router
-### Router: A
+### Router: A 
+- Porta GigabiteEthernet 0/0
     - Gap: 200.168.100.0 - 200.168.100.3
     - Network: 200.168.100.0
     - Broadcast: 200.168.100.3
